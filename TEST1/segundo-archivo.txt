@@ -1,1 +1,1 @@
-segundo archivo de prueba dentro de un nuevo folder
+segundo archivo de prueba dentro de un nuevo folder, ahora adicionamos este nuevo texto.
